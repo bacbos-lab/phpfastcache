@@ -4,12 +4,12 @@
  "description": "A working fork of PHP Fast Chache library",
  "keywords": ["cache","caching","php cache","mysql cache","apc cache","apc","memcache","memcached","wincache","files cache","pdo cache","cache class"],
  "homepage": "http://www.phpfastcache.com",
- "license": "Open Source",
+ "license": "MIT",
  "authors": [
         {
             "name": "Mandeep Singh",
             "email": "mandeep@websterfolks.com",
-            "homepage": "http://www.msingh.me",
+            "homepage": "http://www.msingh.me"
         }
     ], 
     "require": {
