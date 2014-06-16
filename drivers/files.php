@@ -37,7 +37,7 @@ class phpfastcache_files extends  phpFastCache implements phpfastcache_driver  {
         $path = $this->getPath();
         $code = md5($keyword);
         $folder = substr($code,0,2);
-        $path = $path."/".$folder;
+        $path = $path.$folder;
         /*
          * Skip Create Sub Folders;
          */
